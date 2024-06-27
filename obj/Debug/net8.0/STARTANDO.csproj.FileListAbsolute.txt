@@ -1,0 +1,14 @@
+C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\bin\Debug\net8.0\STARTANDO.exe
+C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\bin\Debug\net8.0\STARTANDO.deps.json
+C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\bin\Debug\net8.0\STARTANDO.runtimeconfig.json
+C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\bin\Debug\net8.0\STARTANDO.dll
+C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\bin\Debug\net8.0\STARTANDO.pdb
+C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\obj\Debug\net8.0\STARTANDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\obj\Debug\net8.0\STARTANDO.AssemblyInfoInputs.cache
+C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\obj\Debug\net8.0\STARTANDO.AssemblyInfo.cs
+C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\obj\Debug\net8.0\STARTANDO.csproj.CoreCompileInputs.cache
+C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\obj\Debug\net8.0\STARTANDO.dll
+C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\obj\Debug\net8.0\refint\STARTANDO.dll
+C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\obj\Debug\net8.0\STARTANDO.pdb
+C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\obj\Debug\net8.0\STARTANDO.genruntimeconfig.cache
+C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\obj\Debug\net8.0\ref\STARTANDO.dll
