@@ -12,3 +12,4 @@ C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\obj\Debug\net8.0\refint\STAR
 C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\obj\Debug\net8.0\STARTANDO.pdb
 C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\obj\Debug\net8.0\STARTANDO.genruntimeconfig.cache
 C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\obj\Debug\net8.0\ref\STARTANDO.dll
+C:\Users\madra\OneDrive\Área de Trabalho\STARTANDO\obj\Debug\net8.0\STARTANDO.sourcelink.json
