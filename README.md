@@ -1,6 +1,5 @@
-# lista-de-exercicios---startando
+Lista de Exercicios - Algoritimos
 
-Lista de Exercícios - Algoritmos
 
 1) O proprietário da empresa ABC LTDA precisa de um programa de computador para
 calcular o novo salário que seus funcionários irão receber a partir do mês que vem.
